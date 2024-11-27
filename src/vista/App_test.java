@@ -6,7 +6,7 @@ import modelo.*;
 
 import java.util.ArrayList;
 
-public class App {
+public class App_test {
     public static void main(String[] args) {
 
 
